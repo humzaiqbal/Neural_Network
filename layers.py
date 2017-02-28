@@ -1,4 +1,4 @@
-simport numpy as np 
+import numpy as np 
 
 def __relu(x):
 	return np.maximum(x, 0, x)
